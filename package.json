@@ -2,18 +2,26 @@
   "name": "pet-registration-app",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist --public-url /PetPals/",
+    "predeploy": "npm run build",
+    "homepage": "https://hardikmathur11.github.io/PetPals",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
     "firebase": "^11.10.0",
     "parcel": "^2.15.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-firebase-hooks": "^5.1.1",
+    "react-redux": "^9.2.0",
     "react-router": "^7.6.3",
     "react-router-dom": "^7.6.3"
   },
@@ -21,6 +29,7 @@
     "@babel/core": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
     "@tailwindcss/postcss": "^4.1.11",
-    "buffer": "^6.0.3"
+    "buffer": "^6.0.3",
+    "gh-pages": "^6.3.0"
   }
 }

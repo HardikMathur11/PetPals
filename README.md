@@ -45,10 +45,9 @@ npm run deploy
 ---
 
 # 🤝 Contributing
- Contributions are welcome! Feel free to open an Issue or Pull Request.
-
+  Contributions are welcome! Feel free to open an Issue or Pull Request.
 ---
 
 # 📜 License
-This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
 

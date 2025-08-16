@@ -1,7 +1,7 @@
 🐾 PetPals – Pet Registration & Care Platform
 
 
-###
+
 PetPals is a modern pet registration and management platform built with React + Firebase.
 It allows users to register their pets, manage their details, report lost/found pets, and explore pet care tips.
 Designed with a glassmorphism-inspired UI, it provides a seamless and user-friendly experience.

@@ -45,7 +45,6 @@ npm run deploy
 ---
 
 
----
 
 # 🤝 Contributing
   Contributions are welcome! Feel free to open an Issue or Pull Request.

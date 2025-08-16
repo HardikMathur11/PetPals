@@ -35,14 +35,14 @@ Deploy to GitHub Pages:
 npm run deploy
 ```
 
----
 # 🛠 Tech Stack
--⚛️ React.js (Frontend)
--🔥 Firebase (Authentication & Data)
--🎨 TailwindCSS + Custom Glassmorphism styling
--💾 Local Storage (for pet images)
--🌐 GitHub Pages (Hosting & Deployment)
+- ⚛️ React.js (Frontend)
+- 🔥 Firebase (Authentication & Data)
+- 🎨 TailwindCSS + Custom Glassmorphism styling
+- 💾 Local Storage (for pet images)
+- 🌐 GitHub Pages (Hosting & Deployment)
 
+---
 
 # 🤝 Contributing
 -Contributions are welcome! Feel free to open an Issue or Pull Request.

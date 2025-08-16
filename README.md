@@ -27,11 +27,12 @@ Designed with a glassmorphism-inspired UI, it provides a seamless and user-frien
 
 
 
-##Clone the repository and install dependencies:
+Clone the repository and install dependencies:
 
 git clone https://github.com/hardikmathur11/PetPals.git
 ---
 cd PetPals
+---
 npm install
 Start the development server:
 ---

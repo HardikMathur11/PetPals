@@ -2,6 +2,7 @@
 
 A modern **Pet Registration Web App** built with **React + Firebase**, designed to let users register their pets, manage pet details, and view profiles in a clean **Glassmorphism-inspired UI**.  
 
+🔗 Live Demo: 
 ---
 
 ## 🚀 Features  
@@ -35,9 +36,19 @@ npm run deploy
 ```
 
 ---
-#🛠 Tech Stack
-⚛️ React.js (Frontend)
-🔥 Firebase (Authentication & Data)
-🎨 TailwindCSS + Custom Glassmorphism styling
-💾 Local Storage (for pet images)
-🌐 GitHub Pages (Hosting & Deployment)
+# 🛠 Tech Stack
+-⚛️ React.js (Frontend)
+-🔥 Firebase (Authentication & Data)
+-🎨 TailwindCSS + Custom Glassmorphism styling
+-💾 Local Storage (for pet images)
+-🌐 GitHub Pages (Hosting & Deployment)
+
+
+# 🤝 Contributing
+-Contributions are welcome! Feel free to open an Issue or Pull Request.
+
+---
+
+# 📜 License
+-This project is licensed under the MIT License.
+

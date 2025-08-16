@@ -20,7 +20,6 @@ A modern **Pet Registration Web App** built with **React + Firebase**, designed 
 
 Clone the repository and install dependencies:  
 
-```
 git clone https://github.com/hardikmathur11/PetPals.git
 cd PetPals
 npm install

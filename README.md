@@ -2,7 +2,7 @@
 
 A modern **Pet Registration Web App** built with **React + Firebase**, designed to let users register their pets, manage pet details, and view profiles in a clean **Glassmorphism-inspired UI**.  
 
-🔗 Live Demo: https://hardikmathur11.github.io/PetPals/
+🔗 Live Demo: [https://hardikmathur11.github.io/PetPals/](https://fantastic-tartufo-b21754.netlify.app/)
 ---
 
 ## 🚀 Features  
